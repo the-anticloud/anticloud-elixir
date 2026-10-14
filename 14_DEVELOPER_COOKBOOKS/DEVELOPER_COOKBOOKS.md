@@ -1,0 +1,36 @@
+# 14 Developer Cookbooks - ELIXIR
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** ELIXIR | Category: ACADEMIA_RD
+**Upstream:** unknown
+**Run stamp:** 2026-10-07T08:44:16.609299Z
+
+## Overview
+
+This document covers 14 developer cookbooks for the Anticloud integration of ELIXIR.
+
+## Project Context
+
+- **Category:** ACADEMIA_RD
+- **Upstream:** unknown
+- **License:** apache-2.0
+- **BENCH.json:** 16/16 PASS (SHA256: `3704a820e862e0f082f1a5b3ba7c385921249f2cde81881551a607177be84ad1`)
+
+## Key Metrics
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| Files total | 38 | BENCH.json 01_loc_files |
+| Code lines | 6889 | BENCH.json 01_loc_files |
+| License | apache-2.0 | BENCH.json 02_licence |
+| Dependencies | 6 | BENCH.json 03_dependency_scan |
+| SBOM components | 272 | BENCH.json 04_sbom_cyclonedx |
+| Git head | 45f790a7562a | BENCH.json 05_git_health |
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
+
+License: apache-2.0 + Enterprise commercial dual (Anticommons 0.1.0).
